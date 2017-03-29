@@ -1,0 +1,6 @@
+use_frameworks!
+target 'LNPopupController_Tests' do
+  pod 'LNPopupController', :path => '../'
+  
+  
+end

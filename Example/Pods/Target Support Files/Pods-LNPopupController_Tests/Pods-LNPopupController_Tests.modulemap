@@ -1,0 +1,6 @@
+framework module Pods_LNPopupController_Tests {
+  umbrella header "Pods-LNPopupController_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

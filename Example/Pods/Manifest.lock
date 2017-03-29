@@ -1,0 +1,16 @@
+PODS:
+  - LNPopupController (0.1.0)
+
+DEPENDENCIES:
+  - LNPopupController (from `../`)
+
+EXTERNAL SOURCES:
+  LNPopupController:
+    :path: ../
+
+SPEC CHECKSUMS:
+  LNPopupController: f6fa5bba6f6e55595fad2278f64ef9b4a70318ea
+
+PODFILE CHECKSUM: 6149740bc6b463fe750d5654db2b49b0052e6fea
+
+COCOAPODS: 1.2.0
